@@ -1,0 +1,2 @@
+#Ignore books directory (only want the code on GitHub, not data)
+/books 
